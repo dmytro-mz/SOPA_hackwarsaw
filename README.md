@@ -1,6 +1,6 @@
-# SOTA - Scraping Online Trends and Advice
+# SOPA - Social Oriented Project Aggregator
 
-Welcome to **SOTA**, a project developed during **HackWarsaw**. SOTA aims to gather data from the internet about the challenges people face and their ideas for improving their surroundings. This README will guide you through the setup and usage of the SOTA scraper.
+Welcome to **SOPA**, a project developed during **HackWarsaw**. SOPA aims to gather data from the internet about the challenges people face and their ideas for improving their surroundings. This README will guide you through the setup and usage of the SOPA scraper.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,12 +10,12 @@ Welcome to **SOTA**, a project developed during **HackWarsaw**. SOTA aims to gat
 
 ## Installation
 
-To get started with SOTA, follow these steps:
+To get started with SOPA, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/SOTA.git
-    cd SOTA
+    git clone https://github.com/dmytro-mz/SOPA_hackwarsaw.git
+    cd SOPA_hackwarsaw
     ```
 
 2. **Install the required packages**:
@@ -25,10 +25,10 @@ To get started with SOTA, follow these steps:
 
 ## Usage
 
-Once you have installed the necessary packages, you can run the SOTA scraper by executing the following command:
+Once you have installed the necessary packages, you can run the SOPA scraper by executing the following command:
 
 ```sh
-python3 SOTA_scraper.py
+python3 SOPA_scraper.py
 ```
 
 This will initiate the scraping process, gathering data from various online sources.
@@ -39,7 +39,7 @@ The scraped data is stored in a JSON file named `scraped_data.json` by default. 
 
 ## Future Work
 
-In the future, we plan to enhance SOTA with the following features:
+In the future, we plan to enhance SOPA with the following features:
 
 - **Database Integration**: Store the scraped data in a dedicated database for better scalability and accessibility.
 - **Advanced Scraping Techniques**: Improve the scraping logic to handle a wider variety of websites and data formats.
@@ -49,4 +49,4 @@ In the future, we plan to enhance SOTA with the following features:
 
 ---
 
-Thank you for using SOTA! We hope this project helps in understanding and addressing the challenges faced by communities worldwide. If you have any questions or need further assistance, please feel free to reach out.
+Thank you for using SOPA! We hope this project helps in understanding and addressing the challenges faced by communities worldwide. If you have any questions or need further assistance, please feel free to reach out.
